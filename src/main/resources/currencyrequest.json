@@ -1,0 +1,32 @@
+[{
+  "currency": "USD",
+  "amount": "10"
+},
+{
+"currency": "USD",
+"amount": "20"
+},
+{
+"currency": "USD",
+"amount": "30"
+},
+{
+"currency": "EUR",
+"amount": "10"
+},
+{
+"currency": "INR",
+"amount": "10"
+},
+{
+"currency": "EUR",
+"amount": "10"
+},
+{
+"currency": "INR",
+"amount": "60"
+},
+{
+"currency": "EUR",
+"amount": "20"
+}]
